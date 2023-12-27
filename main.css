@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 /* ESTILO 1*/
-
 * {
     font-family: 'Roboto', sans-serif;
 }
@@ -130,7 +128,7 @@ input:focus, textarea:focus {
     text-decoration: none;
     color: #182c61;
 }
-=======
+
 /* ESTILO 1*/
 h1 {
     font-size: 40px;
@@ -257,4 +255,3 @@ input:focus, textarea:focus {
     text-decoration: none;
     color: #182c61;
 }
->>>>>>> 477e5a6e51f376219d4ce0d1ee33398e92654267
